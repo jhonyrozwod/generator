@@ -1,0 +1,7 @@
+{
+    "apps": [{
+        "name": "Rabbit",
+        "script": "node",
+        "args": "build/index.js"
+    }]
+}
